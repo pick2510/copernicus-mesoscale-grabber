@@ -1,0 +1,6 @@
+outmodel: wrf
+inmodel: era5
+startdate: "20180701"
+enddate: "20180705"
+grid: 48.1/-78/42/-69
+res: 0.25/0.25
